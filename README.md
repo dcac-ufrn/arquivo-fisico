@@ -1,5 +1,5 @@
 # Introdução
-Os arquivos neste repositório demonstram a estrutura planejada para organizar o arquivo físico do órgão administrativo.
+Este repositório demonstra a estrutura planejada para organizar o arquivo físico do órgão administrativo.
 
 A finalidade deste planejamento foi desenvolver um sistema de identificação que possibilitasse a fácil e rápida localização de qualquer documento armazenado, sempre que necessário.
 
